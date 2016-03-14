@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/antlr.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/jta.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/persistence-api.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="C:/desenv/java/Modulo-JPA/libs/lib/slf4j-log4j12.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
